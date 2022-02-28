@@ -1,0 +1,2 @@
+# nft
+nextflow fungible template
